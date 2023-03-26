@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/WeatherInfo/static/css/main.c575e2ee.css",
-    "main.js": "/WeatherInfo/static/js/main.cec2a26f.js",
+    "main.css": "/WeatherInfo/static/css/main.3c177f59.css",
+    "main.js": "/WeatherInfo/static/js/main.6cfcab21.js",
     "static/js/787.823ca41c.chunk.js": "/WeatherInfo/static/js/787.823ca41c.chunk.js",
+    "static/media/sunsky.jpg": "/WeatherInfo/static/media/sunsky.8c193de9c9975cc381cf.jpg",
     "static/media/weatherSpin.gif": "/WeatherInfo/static/media/weatherSpin.f29523cd37bf5a54f9c8.gif",
     "static/media/storm.png": "/WeatherInfo/static/media/storm.c1e9586b5be0f282824d.png",
     "static/media/humidity.png": "/WeatherInfo/static/media/humidity.c8ee914ee96a5293ae25.png",
+    "static/media/sunset.png": "/WeatherInfo/static/media/sunset.69425e3e94bed66c8c77.png",
     "static/media/weather.png": "/WeatherInfo/static/media/weather.35d0fcc7824b6c1c89c6.png",
+    "static/media/sunrise.png": "/WeatherInfo/static/media/sunrise.dbfcf2910a6aef3f511b.png",
     "static/media/airPollutionI.png": "/WeatherInfo/static/media/airPollutionI.d6a2eb94e3febe3b0a8f.png",
     "static/media/temperature.png": "/WeatherInfo/static/media/temperature.23775b9abdaba30d4c03.png",
     "static/media/logo.svg": "/WeatherInfo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/WeatherInfo/index.html",
     "static/media/search.svg": "/WeatherInfo/static/media/search.7b640bcb34251e930bc6bcc099389fe8.svg",
     "static/media/location.svg": "/WeatherInfo/static/media/location.3cd0a147a4735ef77d669f6292cbdf69.svg",
-    "main.c575e2ee.css.map": "/WeatherInfo/static/css/main.c575e2ee.css.map",
-    "main.cec2a26f.js.map": "/WeatherInfo/static/js/main.cec2a26f.js.map",
+    "main.3c177f59.css.map": "/WeatherInfo/static/css/main.3c177f59.css.map",
+    "main.6cfcab21.js.map": "/WeatherInfo/static/js/main.6cfcab21.js.map",
     "787.823ca41c.chunk.js.map": "/WeatherInfo/static/js/787.823ca41c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c575e2ee.css",
-    "static/js/main.cec2a26f.js"
+    "static/css/main.3c177f59.css",
+    "static/js/main.6cfcab21.js"
   ]
 }
