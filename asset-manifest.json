@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/WeatherInfo/static/css/main.72dd9302.css",
+    "main.css": "/WeatherInfo/static/css/main.5be3e5dc.css",
     "main.js": "/WeatherInfo/static/js/main.7cb08270.js",
     "static/js/787.823ca41c.chunk.js": "/WeatherInfo/static/js/787.823ca41c.chunk.js",
-    "static/media/sunsky.jpg": "/WeatherInfo/static/media/sunsky.8c193de9c9975cc381cf.jpg",
+    "static/media/sunsky.jpg": "/WeatherInfo/static/media/sunsky.61f7f0bf1654525054ce.jpg",
     "static/media/weatherSpin.gif": "/WeatherInfo/static/media/weatherSpin.f29523cd37bf5a54f9c8.gif",
     "static/media/storm.png": "/WeatherInfo/static/media/storm.c1e9586b5be0f282824d.png",
     "static/media/humidity.png": "/WeatherInfo/static/media/humidity.c8ee914ee96a5293ae25.png",
@@ -16,12 +16,12 @@
     "index.html": "/WeatherInfo/index.html",
     "static/media/search.svg": "/WeatherInfo/static/media/search.7b640bcb34251e930bc6bcc099389fe8.svg",
     "static/media/location.svg": "/WeatherInfo/static/media/location.3cd0a147a4735ef77d669f6292cbdf69.svg",
-    "main.72dd9302.css.map": "/WeatherInfo/static/css/main.72dd9302.css.map",
+    "main.5be3e5dc.css.map": "/WeatherInfo/static/css/main.5be3e5dc.css.map",
     "main.7cb08270.js.map": "/WeatherInfo/static/js/main.7cb08270.js.map",
     "787.823ca41c.chunk.js.map": "/WeatherInfo/static/js/787.823ca41c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72dd9302.css",
+    "static/css/main.5be3e5dc.css",
     "static/js/main.7cb08270.js"
   ]
 }
