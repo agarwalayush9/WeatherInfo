@@ -1,12 +1,17 @@
 {
   "files": {
-    "main.css": "/WeatherInfo/static/css/main.9f106652.css",
-    "main.js": "/WeatherInfo/static/js/main.a3e7034d.js",
+    "main.css": "/WeatherInfo/static/css/main.fae3f934.css",
+    "main.js": "/WeatherInfo/static/js/main.dc805b53.js",
     "static/js/787.823ca41c.chunk.js": "/WeatherInfo/static/js/787.823ca41c.chunk.js",
     "static/media/sunsky.jpg": "/WeatherInfo/static/media/sunsky.61f7f0bf1654525054ce.jpg",
     "static/media/weatherSpin.gif": "/WeatherInfo/static/media/weatherSpin.f29523cd37bf5a54f9c8.gif",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/WeatherInfo/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/WeatherInfo/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/WeatherInfo/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/o3.png": "/WeatherInfo/static/media/o3.444ccd681640734868ae.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/WeatherInfo/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/so2.png": "/WeatherInfo/static/media/so2.41d305d5fd5beaecc234.png",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/WeatherInfo/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/co.png": "/WeatherInfo/static/media/co.42a0a04c316b4b1e9f2f.png",
     "static/media/air.png": "/WeatherInfo/static/media/air.8047901fa5a111537597.png",
     "static/media/storm.png": "/WeatherInfo/static/media/storm.c1e9586b5be0f282824d.png",
@@ -25,12 +30,12 @@
     "index.html": "/WeatherInfo/index.html",
     "static/media/search.svg": "/WeatherInfo/static/media/search.7b640bcb34251e930bc6bcc099389fe8.svg",
     "static/media/location.svg": "/WeatherInfo/static/media/location.3cd0a147a4735ef77d669f6292cbdf69.svg",
-    "main.9f106652.css.map": "/WeatherInfo/static/css/main.9f106652.css.map",
-    "main.a3e7034d.js.map": "/WeatherInfo/static/js/main.a3e7034d.js.map",
+    "main.fae3f934.css.map": "/WeatherInfo/static/css/main.fae3f934.css.map",
+    "main.dc805b53.js.map": "/WeatherInfo/static/js/main.dc805b53.js.map",
     "787.823ca41c.chunk.js.map": "/WeatherInfo/static/js/787.823ca41c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f106652.css",
-    "static/js/main.a3e7034d.js"
+    "static/css/main.fae3f934.css",
+    "static/js/main.dc805b53.js"
   ]
 }
